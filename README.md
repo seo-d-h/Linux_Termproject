@@ -28,3 +28,6 @@
 |SG-90(Servo  Motor)|전등제어|
 |HC-06(Bluetooth)|스마트폰과 블루투스 통신|
 |LCD디스플레이(I2C)|조명모드와 상태를 LCD를 통해 알려준다|
+
+### 6) 동작영상
+https://www.youtube.com/watch?v=w3JSNm4Bm24
